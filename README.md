@@ -1,3 +1,3 @@
 # jol-lab
 
-OpenJDK jol tool sample project
+[OpenJDK jol](http://openjdk.java.net/projects/code-tools/jol/) tool sample project
